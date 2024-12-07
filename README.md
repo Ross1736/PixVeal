@@ -13,7 +13,7 @@
 
 PixVeal está disponible para Android:
 
-- [Google Play](#)
+- [https://play.google.com/store/apps/developer?id=RossTV](#)
 
 ## 💡 Cómo Usar
 
