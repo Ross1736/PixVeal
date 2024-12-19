@@ -1,0 +1,38 @@
+{
+  "titulo": "Políticas de Privacidad",
+  "presentacion": "Gracias por utilizar PixVeal, una plataforma para compartir y descubrir fotografías, interactuar con otros usuarios y explorar contenido visual de alta calidad. Nos comprometemos a proteger tu privacidad y a garantizar que tu experiencia sea segura. A continuación, detallamos cómo recopilamos, utilizamos y protegemos tus datos personales. Te invitamos a leer esta política detenidamente para comprender nuestros principios y prácticas.",
+  "politicas": [
+    {
+      "nombre": "Información Recopilada",
+      "descripcion": "Cuando te registras en PixVeal, recopilamos información básica como tu nombre, correo electrónico, nombre de usuario y contraseña. También podemos recopilar datos adicionales opcionales como tu foto de perfil o biografía. Además, recopilamos información sobre tus interacciones en la plataforma, como publicaciones, comentarios, likes, seguidores y contenido compartido."
+    },
+    {
+      "nombre": "Uso de la Información",
+      "descripcion": "La información recopilada se utiliza para: \n- Crear y administrar tu cuenta.\n- Proporcionarte una experiencia personalizada en la plataforma.\n- Permitir la interacción entre usuarios (comentarios, likes, seguidores, etc.).\n- Mejorar la calidad de nuestro servicio mediante análisis anónimos y estadísticos. \nNo compartiremos tu información personal con terceros sin tu consentimiento, excepto cuando sea requerido por la ley o necesario para el funcionamiento de la plataforma."
+    },
+    {
+      "nombre": "Privacidad de tus Publicaciones",
+      "descripcion": "No utilizaremos tus imágenes para fines comerciales sin tu consentimiento explícito."
+    },
+    {
+      "nombre": "Seguridad de la Información",
+      "descripcion": "Implementamos medidas de seguridad avanzadas para proteger tu información contra accesos no autorizados, alteraciones, divulgación o destrucción. Esto incluye cifrado en tránsito y almacenamiento seguro. Aunque trabajamos constantemente para proteger tus datos, ninguna transmisión por internet o método de almacenamiento electrónico es 100% seguro."
+    },
+    {
+      "nombre": "Cookies y Tecnologías Similares",
+      "descripcion": "Usamos cookies y tecnologías similares para mejorar tu experiencia en PixVeal, como recordar tus preferencias o analizar el uso de la plataforma. Puedes configurar tu navegador para rechazar cookies, pero esto podría limitar ciertas funcionalidades."
+    },
+    {
+      "nombre": "Acceso, Modificación y Eliminación de Datos",
+      "descripcion": "Puedes acceder, modificar o eliminar tu información personal desde la configuración de tu cuenta en cualquier momento. También puedes solicitar la eliminación completa de tus datos poniéndote en contacto con nuestro equipo de soporte."
+    },
+    {
+      "nombre": "Actualizaciones a esta Política",
+      "descripcion": "Esta política de privacidad puede ser actualizada ocasionalmente para reflejar cambios en nuestras prácticas o requisitos legales. Te notificaremos sobre cualquier cambio importante y te animamos a revisar esta política periódicamente."
+    },
+    {
+      "nombre": "Contacto",
+      "descripcion": "Si tienes preguntas, inquietudes o necesitas asistencia relacionada con nuestra política de privacidad, por favor contáctanos a través de nuestro correo oficial: soporte@pixveal.com."
+    }
+  ]
+}
